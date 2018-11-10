@@ -51,6 +51,13 @@ p {
   margin: 0 0 10px;
 }
 
+.post-preview > a > .post-content {
+  font-weight: normal;
+  margin: 0 0 10px;
+}
+
+
+
 .post-preview > .post-meta {
   font-size: 18px;
   font-style: italic;
@@ -145,8 +152,9 @@ p {
 
 .site-heading .site-heading-lower {
   font-size: 5rem;
-  font-weight: 100;
+  font-weight: bold;
   line-height: 4rem;
+ 
 }
 
 .page-section {
