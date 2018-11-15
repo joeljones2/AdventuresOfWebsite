@@ -31,6 +31,14 @@ p {
 }
 
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
 .post-preview > a {
   color: #212529;
 }
@@ -108,6 +116,7 @@ p {
 /* Some left and right padding inside the container */
 .container {
     padding: 0 16px;
+	
 }
 
 /* Clear floats */
